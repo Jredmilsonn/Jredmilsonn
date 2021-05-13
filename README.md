@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hey 👋
 
-<!--
-**Jredmilsonn/Jredmilsonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Edmilson Junior 👨🇧🇷
 
-Here are some ideas to get you started:
+I am a technology student and one day I want my job as a Back-End Developer  💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
+
+### 🌍 "Ser desenvolvedor é uma viagem onde a próxima parada é a solução de um problema" 🧠
+
+- 📍 From Sao Paulo, Brazil
+- 💻 Back-dev
+
+Reach me out 👇🏼
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isadora-rodrigues-stangarlin-48402b141/)]https://www.linkedin.com/in/edmilson-l-p-junior-05895a199/) 
