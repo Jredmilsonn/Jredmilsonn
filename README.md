@@ -6,10 +6,8 @@ I am a technology student and one day I want my job as a Back-End Developer  �
 
 I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
 
-### 🌍 "Ser desenvolvedor é uma viagem onde a próxima parada é a solução de um problema" 🧠
-
 - 📍 From Sao Paulo, Brazil
-- 💻 Back-dev
+- 💻 QA Engineer
 
 Reach me out 👇🏼
 
