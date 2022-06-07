@@ -2,7 +2,7 @@
 
 My name is Edmilson Junior 👨🇧🇷
 
-I am a technology student and one day I want my job as a Back-End Developer  💻
+I am a technology student and one day I want my job as a QA Engineer.
 
 I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
 
